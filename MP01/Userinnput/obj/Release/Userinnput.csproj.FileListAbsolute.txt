@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.Miniproect1\MP01\Userinnput\bin\Release\Userinnput.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\Userinnput\bin\Release\Userinnput.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\Userinnput\obj\Release\Userinnput.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\Userinnput\obj\Release\Userinnput.pdb

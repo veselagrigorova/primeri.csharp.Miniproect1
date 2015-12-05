@@ -1,0 +1,7 @@
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\CALLCULATOR.exe
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\CALLCULATOR.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Release\CALLCULATOR.exe
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Release\CALLCULATOR.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Userinnput.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Userinnput.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Release\CALLCULATOR.csprojResolveAssemblyReference.cache
