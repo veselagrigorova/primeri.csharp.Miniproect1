@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F97F2A8D-D503-4FDB-833D-836092E9D830}</ProjectGuid>
+    <ProjectGuid>{835E504B-7333-41FF-8229-57062845F8F6}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Userinnput</RootNamespace>
-    <AssemblyName>Userinnput</AssemblyName>
+    <RootNamespace>About</RootNamespace>
+    <AssemblyName>About</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -32,13 +32,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Userinnput.cs" />
+    <Compile Include="me.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\About\About.csproj">
-      <Project>{835E504B-7333-41FF-8229-57062845F8F6}</Project>
-      <Name>About</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>
