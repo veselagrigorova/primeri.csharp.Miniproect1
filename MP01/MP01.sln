@@ -7,12 +7,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Userinnput", "Userinnput\Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "About", "About\About.csproj", "{835E504B-7333-41FF-8229-57062845F8F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colours", "Colours\Colours.csproj", "{DC0E953E-7B01-4523-9104-A4603D2BC5B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculations", "Calculations\Calculations.csproj", "{6E1BCE90-B0B2-44ED-80CB-4C210782255E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E1BCE90-B0B2-44ED-80CB-4C210782255E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E1BCE90-B0B2-44ED-80CB-4C210782255E}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E1BCE90-B0B2-44ED-80CB-4C210782255E}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E1BCE90-B0B2-44ED-80CB-4C210782255E}.Release|x86.Build.0 = Release|Any CPU
 		{835E504B-7333-41FF-8229-57062845F8F6}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{835E504B-7333-41FF-8229-57062845F8F6}.Debug|x86.Build.0 = Debug|Any CPU
 		{835E504B-7333-41FF-8229-57062845F8F6}.Release|x86.ActiveCfg = Release|Any CPU
@@ -21,6 +29,10 @@ Global
 		{9A11D0BE-13F3-4E0B-B29D-2F858019C4C9}.Debug|x86.Build.0 = Debug|x86
 		{9A11D0BE-13F3-4E0B-B29D-2F858019C4C9}.Release|x86.ActiveCfg = Release|x86
 		{9A11D0BE-13F3-4E0B-B29D-2F858019C4C9}.Release|x86.Build.0 = Release|x86
+		{DC0E953E-7B01-4523-9104-A4603D2BC5B5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC0E953E-7B01-4523-9104-A4603D2BC5B5}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC0E953E-7B01-4523-9104-A4603D2BC5B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC0E953E-7B01-4523-9104-A4603D2BC5B5}.Release|x86.Build.0 = Release|Any CPU
 		{F97F2A8D-D503-4FDB-833D-836092E9D830}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{F97F2A8D-D503-4FDB-833D-836092E9D830}.Debug|x86.Build.0 = Debug|Any CPU
 		{F97F2A8D-D503-4FDB-833D-836092E9D830}.Release|x86.ActiveCfg = Release|Any CPU

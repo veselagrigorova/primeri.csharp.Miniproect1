@@ -40,5 +40,13 @@
       <Project>{835E504B-7333-41FF-8229-57062845F8F6}</Project>
       <Name>About</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Colours\Colours.csproj">
+      <Project>{DC0E953E-7B01-4523-9104-A4603D2BC5B5}</Project>
+      <Name>Colours</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Calculations\Calculations.csproj">
+      <Project>{6E1BCE90-B0B2-44ED-80CB-4C210782255E}</Project>
+      <Name>Calculations</Name>
+    </ProjectReference>
   </ItemGroup>
 </Project>

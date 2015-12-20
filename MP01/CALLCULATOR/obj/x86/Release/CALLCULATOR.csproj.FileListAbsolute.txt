@@ -7,3 +7,7 @@ C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Userinnput.pdb
 C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Release\CALLCULATOR.csprojResolveAssemblyReference.cache
 C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\About.dll
 C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\About.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Colours.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Colours.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Calculations.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Release\Calculations.pdb

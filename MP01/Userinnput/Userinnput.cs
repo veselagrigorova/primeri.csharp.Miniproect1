@@ -5,6 +5,9 @@ namespace Userinnput
 	public class UInnput
 	{
 		About.Me about = new About.Me ();
+		Colours.ForCLI  _c = new Colours.ForCLI();
+		Calculations.MainLibrary _calc = new Calculations.MainLibrary();
+
 
 		public UInnput ()
 		{
@@ -12,7 +15,7 @@ namespace Userinnput
 
 		public void SayHello ()
 		{
-			Console.WriteLine ("Добре дошли в " + about.shortName +",\n" + about.version +"!\n");
+			_c.Default (); Console.WriteLine ("Добре дошли в " + about.shortName +",\n" + about.version +"!\n");
 		}
 
 		public void getUserCommands ()
@@ -21,12 +24,17 @@ namespace Userinnput
 			do{
 				//Взимане на команда
 
-				Console.Write ("$");
-				_command = Console.ReadLine();
+				_c.Prompt(); Console.Write ("$");
+				_c.Command(); _command = Console.ReadLine();
 
 				//Проверка на налични команди
-				if ( _command.ToLower().Contains ("команда1" )) 	Console.WriteLine ("Стартирана е Команда 1\n");  
-				if ( _command.ToLower().Contains ("команда2" )) 	Console.WriteLine ("Стартирана е Команда 2\n");
+				if ( _command.ToLower().Contains ("яма" )) 	_calc.F01.calc (_command);
+
+				if ( _command.ToLower().Contains ("команда2" )) 
+				{	_c.Default(); Console.Write ("Стартирана е ");
+					_c.Result(); Console.WriteLine("Команда 2\n");
+				}
+
 				if ( _command.ToLower().Contains ("команда3" ))		Console.WriteLine ("Стартирана е Команда 3 \n");
 
 
