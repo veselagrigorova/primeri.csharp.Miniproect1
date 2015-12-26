@@ -1,0 +1,13 @@
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\CALLCULATOR.exe
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\CALLCULATOR.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\About.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\Userinnput.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\Colours.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\Calculations.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\Userinnput.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\About.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\Colours.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\bin\Debug\Calculations.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Debug\CALLCULATOR.csprojResolveAssemblyReference.cache
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Debug\CALLCULATOR.exe
+C:\aula\primeri.csharp.Miniproect1\MP01\CALLCULATOR\obj\x86\Debug\CALLCULATOR.pdb

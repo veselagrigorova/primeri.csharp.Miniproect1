@@ -28,12 +28,9 @@ namespace Userinnput
 				_c.Command(); _command = Console.ReadLine();
 
 				//Проверка на налични команди
-				if ( _command.ToLower().Contains ("яма" )) 	_calc.F01.calc (_command);
+				if ( _command.ToLower().Contains ("яма" )) 	    _calc.F01.calc ( _command );
+				if ( _command.ToLower().Contains ("въгъл"))    _calc.F02.calc ( _command );
 
-				if ( _command.ToLower().Contains ("команда2" )) 
-				{	_c.Default(); Console.Write ("Стартирана е ");
-					_c.Result(); Console.WriteLine("Команда 2\n");
-				}
 
 				if ( _command.ToLower().Contains ("команда3" ))		Console.WriteLine ("Стартирана е Команда 3 \n");
 

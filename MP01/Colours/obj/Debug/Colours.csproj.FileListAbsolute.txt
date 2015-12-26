@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.Miniproect1\MP01\Colours\bin\Debug\Colours.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\Colours\bin\Debug\Colours.pdb
+C:\aula\primeri.csharp.Miniproect1\MP01\Colours\obj\Debug\Colours.dll
+C:\aula\primeri.csharp.Miniproect1\MP01\Colours\obj\Debug\Colours.pdb
